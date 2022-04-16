@@ -1,0 +1,5 @@
+touch README.md
+touch LICENSE
+touch init.go
+touch go-lib.go
+touch go-lib_test.go
